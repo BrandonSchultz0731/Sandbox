@@ -2,6 +2,8 @@ package sandbox;
 
 import sandbox.Calculator.IntegerMath;
 
+System.out.println("Forked this!")
+
 public class LambdaExpressions {
 
   public static void demoLambda() {
